@@ -1,0 +1,4 @@
+sqlite3.exe db.sqlite3
+.mode csv
+.import restaurants_small.csv myadmin_restaurant
+
